@@ -1,6 +1,6 @@
 # Hi, I'm Senghuy  
 
-I build **AI systems and software applications**, with experience ranging from research prototypes to production-ready code. My work spans **computer vision, NLP, multimodal learning, and backend/mobile development**. Recently, my research has focused on **Agentic AI** — exploring autonomous AI systems that integrate planning, reasoning, and multimodal learning.  
+I build **AI systems and software applications**, with experience ranging from research prototypes to production-ready code. My work spans **computer vision, NLP, multimodal learning, and backend/mobile development**. Recently, my research has focused on **Agentic AI** exploring autonomous AI systems that integrate planning, reasoning, and multimodal learning.  
 
 ---
 
